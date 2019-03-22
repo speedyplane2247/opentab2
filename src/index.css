@@ -1,0 +1,25 @@
+body {
+background-color: rgb(14, 77, 110)
+}
+p {
+color : rgb(198, 32, 204)
+}
+h1 {
+color: rgb(198, 32, 204)
+}
+input {
+border-color: rgb(26, 160, 127);
+background-color: rgb(14, 77, 110);
+}
+a {
+color: rgb(206, 34, 100)
+}
+em {
+border-color: rgb(26, 160, 127);
+background-color: rgb(14, 77, 110);
+}
+select {
+color: rgb(26, 160, 127);
+border-color: rgb(26, 160, 127);
+background-color: rgb(14, 77, 110)
+}
